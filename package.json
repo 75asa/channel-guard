@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "watch Slack channel activity",
+  "main": "y",
+  "repository": "y",
+  "author": "75asa(75asa.me@gmail.com)",
+  "license": "y",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
